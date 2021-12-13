@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="342.0" prefWidth="521.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerServer">
+   <children>
+      <ListView fx:id="activeUsers" layoutX="14.0" layoutY="76.0" prefHeight="252.0" prefWidth="200.0" />
+      <ListView fx:id="userFile" layoutX="309.0" layoutY="76.0" prefHeight="252.0" prefWidth="200.0" />
+      <Text layoutX="14.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Users on Server:" />
+      <Text layoutX="309.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Files of users" />
+      <Text layoutX="243.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Server" wrappingWidth="34.763671875" />
+   </children>
+</AnchorPane>

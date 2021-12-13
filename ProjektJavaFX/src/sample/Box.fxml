@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="259.0" prefWidth="439.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerBox">
+   <children>
+      <TextField fx:id="userNameBox" layoutX="144.0" layoutY="83.0"/>
+      <Text layoutX="178.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Give Username:" />
+      <TextField fx:id="folderPathBox" layoutX="145.0" layoutY="152.0" />
+      <Text layoutX="175.0" layoutY="134.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Give folder path:" />
+      <Button fx:id="loginButton" layoutX="194.0" layoutY="201.0" mnemonicParsing="false" onAction="#handleLogInButton" text="Login" />
+   </children>
+</AnchorPane>

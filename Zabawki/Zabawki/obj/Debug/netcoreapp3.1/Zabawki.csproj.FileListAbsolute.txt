@@ -1,0 +1,30 @@
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csprojAssemblyReference.cache
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.Form1.resources
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csproj.GenerateResource.cache
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.AssemblyInfoInputs.cache
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.AssemblyInfo.cs
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csproj.CoreCompileInputs.cache
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.exe
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.deps.json
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.runtimeconfig.json
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.runtimeconfig.dev.json
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.dll
+C:\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.pdb
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.dll
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.pdb
+C:\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.genruntimeconfig.cache
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.exe
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.deps.json
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.runtimeconfig.json
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.runtimeconfig.dev.json
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.dll
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\bin\Debug\netcoreapp3.1\Zabawki.pdb
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csprojAssemblyReference.cache
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.Form1.resources
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csproj.GenerateResource.cache
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.AssemblyInfoInputs.cache
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.AssemblyInfo.cs
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.csproj.CoreCompileInputs.cache
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.dll
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.pdb
+C:\Users\Honk Honk\Downloads\Zabawki\Zabawki\obj\Debug\netcoreapp3.1\Zabawki.genruntimeconfig.cache
